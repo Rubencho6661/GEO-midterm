@@ -1,4 +1,5 @@
 # EXPLORE SATELLITE DATA FROM LANDSAT 7
+# Proyecto de examen de medio termino de los chicos de RMS
 
 # Install and load packages
 install.packages("terra")
