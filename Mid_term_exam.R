@@ -14,6 +14,8 @@ library(sf)
 library(RStoolbox)
 library(readr)
 
+#sumar lineas de dialogo 
+
 rm(list = ls())
 
 ##########
